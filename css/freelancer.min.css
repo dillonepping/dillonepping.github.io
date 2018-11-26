@@ -391,4 +391,9 @@ a:active,a:focus,a:hover
 	background-color: #228B22;
 	border-color: #228B22;
 }
-
+.OBFIT {
+	object-fit: cover;
+	object-position: center center;
+ width: 400px;
+ height: 400px;
+}
