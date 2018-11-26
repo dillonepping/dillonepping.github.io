@@ -378,3 +378,10 @@ a:focus, a:hover, a:active {
   background-color: #1a252f;
   border-color: #1a252f;
 }
+}
+.OBFIT {
+	object-fit: cover;
+	object-position: center center;
+ width: 400px;
+ height: 400px;
+}
